@@ -1,11 +1,4 @@
-```
-██████╗  ██████╗ ███████╗████████╗███████╗██████╗
-██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗
-██████╔╝██║   ██║███████╗   ██║   █████╗  ██████╔╝
-██╔═══╝ ██║   ██║╚════██║   ██║   ██╔══╝  ██╔══██╗
-██║     ╚██████╔╝███████║   ██║   ███████╗██║  ██║
-╚═╝      ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
+
 
 A ridiculously simple general purpose social media smart contract.
 It takes a string as a parameter and emits that string, along with a unique id, as an event. That's it.
